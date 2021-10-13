@@ -27,3 +27,10 @@
 
     Gradio:
     ![](./Images/Question_Answering_Gradio.png)
+4. [Grammatical Sentence Classification](5-Grammatical.ipynb): fine-tuned a nnlm-en-dim50 model on CoLA dataset
+
+    Tensorboard:
+    ![](./Images/Grammatical_Tensorboard.png)
+
+    Gradio:
+    ![](./Images/Grammatical_Gradio.png)
