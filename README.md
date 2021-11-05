@@ -3,3 +3,4 @@
 2. Assignment 2 - Perceiver Model for Classification
 3. Assignment 3 - Fine-tune Language Models 
 4. Assignment 4 - Deep AutoVIML
+5. Assignment 5 - Meta learning and multi task learning
